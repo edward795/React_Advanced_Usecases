@@ -1,0 +1,19 @@
+.parentAccord {
+  width: 100%;
+  padding: 10px;
+  background-color: #555;
+  display: flex;
+  justify-content: center;
+}
+
+.accord {
+  width: 70%;
+  background-color: #fff;
+  padding: 10px;
+}
+
+.childAccord {
+  width: 70%;
+  background-color: #fff;
+  padding: 10px;
+}
