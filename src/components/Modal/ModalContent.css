@@ -1,0 +1,26 @@
+.modal {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  padding: 20px;
+  transform: translate(-50%, -50%);
+  border-radius: 10px;
+  z-index: 1;
+  background-color: #35beac;
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 1;
+}
+
+.modal span {
+  float: right;
+  font: 26px;
+}
