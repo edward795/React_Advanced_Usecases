@@ -1,0 +1,7 @@
+.btnClass {
+  display: flex;
+  justify-content: space-between;
+}
+.subTitle {
+  text-align: center;
+}
